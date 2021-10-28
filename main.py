@@ -1,5 +1,3 @@
-import math
-
 def cube():
     while True:
         try:
