@@ -21,6 +21,5 @@ while True:
             cone()        
         elif choice == 6:
             tetrahedron()
-            print('Sara')
     except NameError:
         print("Error! Error! Error! Invalid input, try again.")
