@@ -16,9 +16,8 @@ while True:
             # Joel()
             print('Joel')
         elif choice == 5:
-            # Markus()
-            print('Markus')
-        elif choice == 5:
+            cone()        
+            elif choice == 5:
             # Sara()
             print('Sara')
     except NameError:
