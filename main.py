@@ -17,8 +17,8 @@ while True:
             print('Joel')
         elif choice == 5:
             cone()        
-            elif choice == 5:
-            # Sara()
+        elif choice == 6:
+            tetrahedron()
             print('Sara')
     except NameError:
         print("Error! Error! Error! Invalid input, try again.")
