@@ -1,8 +1,5 @@
 import math
 
-
-
-
 #Här under hittar ni era namn där ni ska ange funktionen ni vill anropa som ni får definiera här ovanför.
 #ändra choice text strängen med er valda objekt.
 

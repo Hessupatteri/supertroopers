@@ -5,5 +5,3 @@ def tetrahedron():
     calculation=((base*hight)/3)
     print("")
     print (f'The volume of the tetrahedron is {calculation} cm\u00b2.')
-tetrahedron()
-   
