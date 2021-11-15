@@ -1,5 +1,3 @@
-import math 
-
 def sphere(): 
     print('Hello, this app will help you calculate the area of a sphere.')
     radius =float(input('Please submit the radius of the sphere: '))
